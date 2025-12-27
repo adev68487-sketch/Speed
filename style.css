@@ -1,0 +1,10 @@
+html, body, div {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  overflow: hidden;
+  background-color: #000000;
+}
